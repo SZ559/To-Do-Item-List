@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5eFb6585ctkP+DV9MLdMOpc8HbEXWg6SO1eNiPU1Y2Bo4x3mE1tkZRNJdbCyMeiMcimErTJA/J1Laj4I3MDSA==",
+  "dgSpecHash": "WHyXa8MdJjfqjRPEneV5N0vVV/0dxF3rfD47GdRKHQfWpdZ3IxDPQffkOVlozRotTU7kOLWlQ07McmulpYRJuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\To-Do-Item-List\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj",
+  "projectFilePath": "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\Shishi_Zhang_updated1\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SZHANG42\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\SZHANG42\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

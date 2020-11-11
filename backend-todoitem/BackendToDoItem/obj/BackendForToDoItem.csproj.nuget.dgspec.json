@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\To-Do-Item-List\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj": {}
+    "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\Shishi_Zhang_updated1\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\To-Do-Item-List\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj": {
+    "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\Shishi_Zhang_updated1\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\To-Do-Item-List\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj",
+        "projectUniqueName": "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\Shishi_Zhang_updated1\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj",
         "projectName": "BackendForToDoItem",
-        "projectPath": "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\To-Do-Item-List\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj",
+        "projectPath": "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\Shishi_Zhang_updated1\\backend-todoitem\\BackendToDoItem\\BackendForToDoItem.csproj",
         "packagesPath": "C:\\Users\\SZHANG42\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\To-Do-Item-List\\backend-todoitem\\BackendToDoItem\\obj\\",
+        "outputPath": "C:\\Users\\SZHANG42\\Documents\\Training\\BootCamp\\AngularHW\\Shishi_Zhang_updated1\\backend-todoitem\\BackendToDoItem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SZHANG42\\AppData\\Roaming\\NuGet\\NuGet.Config",
